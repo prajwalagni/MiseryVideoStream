@@ -45,7 +45,7 @@
 ```
 ###  • ɢᴇᴛ ʏᴏᴜʀ sᴛʀɪɴɢ sᴇssɪᴏɴ
 
-<p><a href="https://replit.com/@TurdusMaximus/MiseryStringSession#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-00B2FF?style=for-the-badge&logo=appveyor" width="180""/></a></p>
+<p><a href="https://replit.com/@https://github.com/prajwalagni/MiseryStringSession#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-00B2FF?style=for-the-badge&logo=appveyor" width="180""/></a></p>
   
 <h2> •ᴅᴇᴘʟᴏʏɪɴɢ sᴛᴇᴘs </h2>
   
