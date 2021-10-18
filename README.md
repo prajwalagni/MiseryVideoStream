@@ -16,8 +16,7 @@
 
 
 ## •ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=
-https://github.com/TURDUSMAXIMUS/MiseryVideoStream&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,ASSISTANT_NAME,BOT_USERNAME,DURATION_LIMIT,SUDO_USERS)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/TURDUSMAXIMUS/MiseryVideoStream&envs=API_ID,API_HASH,BOT_TOKEN,SESSION_NAME,ASSISTANT_NAME,BOT_USERNAME,DURATION_LIMIT,SUDO_USERS)
   
  ## **••sᴇᴛᴛɪɴɢ ᴜᴘ ʏᴏᴜʀ ᴍɪsᴇʀʏ••**
 
